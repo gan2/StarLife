@@ -1,4 +1,4 @@
-qrequire 'starruby'
+require 'starruby'
 require 'star_life/config'
 require 'star_life/model'
 require 'star_life/controller'
